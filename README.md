@@ -1,0 +1,1 @@
+Chess is a two-player strategy game that is played on a board consisting of 64 squares of alternating colours. The game is played with 16 pieces per player, including a king, queen, rooks, bishops, knights, and pawns.![image](https://user-images.githubusercontent.com/112811516/215093173-2362a5bd-a646-4914-8c4d-f846ee9874d8.png)
